@@ -1,4 +1,4 @@
-This is a Python bot that uses the Riot Games API to pull stats from the popular video game League of Legends and prints them in easy-to-read tables in the popular messaging app Discord. The actual game client only shows your stats on a global leaderboard, making it difficult to directly compare your progress in different aspects of the game to that of your friends. This Python bot allows the user to easily compare and share their video game stats in an easy and simple way.
+This is a Python bot that uses the Riot Games API to pull stats from the video game League of Legends and prints them in easy-to-read tables in the popular messaging app Discord. The actual game client only shows your stats on a global leaderboard, making it difficult to directly compare your progress in different aspects of the game to that of your friends. This Python bot allows the user to easily compare and share their video game stats in an easy and simple way.
 
 ## Usage
 
